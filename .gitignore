@@ -105,3 +105,10 @@ dist
 
 # Private files
 src/config/auth.ts
+
+# Arquivos temporarios
+tmp/*
+!tmp/.gitkeep
+
+# VSCode configs
+.vscode/
